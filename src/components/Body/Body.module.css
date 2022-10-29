@@ -1,4 +1,4 @@
-.body__container{
+.body__container {
     background: #232F5A;
     height: 100vh;
 
@@ -6,67 +6,65 @@
 
 
 
-.line__box{
+.line__box {
     display: flex;
-    justify-content: start;
+    justify-content: flex-start;
     position: relative;
 }
 
-.circle1{
+.circle1 {
     position: absolute;
     left: 250px;
 }
 
-.circle2{
+.circle2 {
     position: absolute;
     left: 0px;
     bottom: 0;
 }
-.circle3{
+
+.circle3 {
     position: absolute;
     right: 50px;
     bottom: 0;
-   
+
 }
 
-.circle4{
+.circle4 {
     position: absolute;
     bottom: 300px;
     right: 220px;
-   
+
 }
 
-.circle5{
+.circle5 {
     position: absolute;
     left: 20px;
-   top:280px
+    top: 280px
 }
 
-.circle6{
+.circle6 {
     position: absolute;
     right: 330px;
-   top:280px
+    top: 280px
 }
 
 
-.circle7{
+.circle7 {
     position: absolute;
     right: 380px;
-   top:90px
-   
+    top: 90px
 }
 
 
 
 @media only screen and (max-width: 768px) {
-    .circle3{
-right: 0px;
+    .circle3 {
+        right: 0px;
     }
-.circle1{
-    left: 0;
-}
 
-    .body__container{
-        
+    .circle1 {
+        left: 0;
     }
-    }
+
+}
