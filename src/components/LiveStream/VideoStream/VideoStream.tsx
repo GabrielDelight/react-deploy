@@ -1,13 +1,10 @@
-import React from "react";
 import { AiOutlineMenuFold } from "react-icons/ai";
 import { BsLaptopFill } from "react-icons/bs";
 import {
   FaDotCircle,
-  FaMicrophoneAlt,
   FaMicrophoneAltSlash,
   FaVideo,
 } from "react-icons/fa";
-import { FiVideo } from "react-icons/fi";
 import { RiCloseCircleLine } from "react-icons/ri";
 import classes from "./VideoStream.module.css";
 const VideoStream = () => {

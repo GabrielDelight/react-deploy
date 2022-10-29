@@ -1,6 +1,6 @@
 import { Fragment } from "react";
 import HomePage from "./Pages/HomePage";
-import { Routes, Route, useNavigate, useLocation } from "react-router-dom";
+import { Routes, Route } from "react-router-dom";
 import ChatPage from "./Pages/ChatPage";
 import LiveStreamsPage from "./Pages/LiveStreamsPage";
 import TrendingGroups from "./Pages/TrendingGroups";
@@ -36,7 +36,7 @@ function App() {
         <Route path="/verification" element={<Verification />} />
         <Route path="/loading" element={<Loading />} />
         <Route path="/success" element={<Success />} />
-        
+
         <Route path="/home" element={<HomePage />} />
         {/* Auth page */}
         <Route path="/chat" element={<ChatPage />} />

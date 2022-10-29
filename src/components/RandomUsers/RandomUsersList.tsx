@@ -1,8 +1,7 @@
 import React from "react";
 import { AiOutlineCheckCircle } from "react-icons/ai";
 import { FaHandshake } from "react-icons/fa";
-import { IoIosClose, IoIosShareAlt, IoMdClose } from "react-icons/io";
-import { MdClose, MdVerified } from "react-icons/md";
+import {  IoIosShareAlt, IoMdClose } from "react-icons/io";
 import classes from "./RandomUsers.module.css";
 interface Props {
   firstname: string;

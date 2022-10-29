@@ -1,9 +1,6 @@
-import React from "react";
 import ChatBodyList from "./ChatBodyList";
 import ChatData from "../../../data/ChatData";
 import classes from "./ChatBody.module.css";
-import { FiSmile } from "react-icons/fi";
-import { MdAttachEmail, MdAttachFile, MdSend } from "react-icons/md";
 import { RiUserSmileLine } from "react-icons/ri";
 import { ImAttachment } from "react-icons/im";
 import { HiOutlinePaperAirplane } from "react-icons/hi";

@@ -1,7 +1,6 @@
-import React, { useEffect, useState } from "react";
-import { BsChatDots, BsMenuButton, BsPeople, BsPieChart, BsPlayBtn, BsTable } from "react-icons/bs";
-import { FaChartLine, FaRegUser } from "react-icons/fa";
-import { FiClock, FiUser, FiVideo } from "react-icons/fi";
+import React from "react";
+import { BsMenuButton, BsPeople, BsPlayBtn } from "react-icons/bs";
+import { FaRegUser } from "react-icons/fa";
 import { RiWechatLine } from "react-icons/ri";
 import { BiPieChartAlt } from "react-icons/bi";
 
@@ -51,10 +50,10 @@ const Aside: React.FC = () => {
           </p>
         </Link>
 
-        <Link to={'/meetings'}>
+        <Link to={"/meetings"}>
           <p>
             <i>
-              <BiPieChartAlt />              
+              <BiPieChartAlt />
             </i>
             <span>Mettings</span>
           </p>

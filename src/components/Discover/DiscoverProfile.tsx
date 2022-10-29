@@ -1,6 +1,4 @@
-import React from "react";
 import { AiOutlineCheckCircle } from "react-icons/ai";
-import { MdVerified } from "react-icons/md";
 import classes from "./DiscoverProfile.module.css";
 const DiscoverProfile = () => {
   return (

@@ -1,9 +1,7 @@
-import React from "react";
 import { BsArrowLeft, BsPencil, BsTelephone } from "react-icons/bs";
-import { FiPhoneCall, FiVideo } from "react-icons/fi";
+import { FiVideo } from "react-icons/fi";
 import { RiArrowDownSFill } from "react-icons/ri";
 import MessagesData from "../../../data/MessagesData";
-import MessagesList from "../Messages/MessagesList";
 import classes from "./ChatAside.module.css";
 import FIlesAside from "./FilesAside/FIlesAside";
 import GroupMessageListAside from "./GroupMessageListAside";

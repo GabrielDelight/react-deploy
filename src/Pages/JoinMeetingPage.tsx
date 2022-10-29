@@ -1,5 +1,4 @@
 import React from "react";
-import { BsFillCameraVideoFill } from "react-icons/bs";
 import Main from "../components/UI/Main/Main";
 import classes from "../styles/JoinMeetingPage.module.css";
 const JoinMeetingPage = () => {

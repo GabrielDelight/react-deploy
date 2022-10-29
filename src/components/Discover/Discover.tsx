@@ -1,8 +1,7 @@
-import React from "react";
 import { AiOutlineCheckCircle } from "react-icons/ai";
-import { FaHandshake, FaHandshakeSlash } from "react-icons/fa";
+import { FaHandshake } from "react-icons/fa";
 import { FiShare } from "react-icons/fi";
-import { MdClose, MdVerified } from "react-icons/md";
+import { MdClose } from "react-icons/md";
 import classes from "./Discover.module.css";
 import DiscoverProfile from "./DiscoverProfile";
 const Discover = () => {

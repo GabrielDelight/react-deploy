@@ -1,8 +1,8 @@
-import React from 'react'
+import React from "react";
 import { BsFillCameraVideoFill } from "react-icons/bs";
-import { FiClock, FiLink2, FiVideo } from "react-icons/fi";
+import { FiClock, FiLink2 } from "react-icons/fi";
 import Main from "../components/UI/Main/Main";
-import classes from '../styles/CreateMettingSetupPage.module.css'
+import classes from "../styles/CreateMettingSetupPage.module.css";
 const CreateMettingSetupPage = () => {
   return (
     <Main>
@@ -33,6 +33,6 @@ const CreateMettingSetupPage = () => {
       </main>
     </Main>
   );
-}
+};
 
-export default CreateMettingSetupPage
+export default CreateMettingSetupPage;

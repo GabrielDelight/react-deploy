@@ -1,5 +1,4 @@
-import React from "react";
-import { BsChevronCompactDown, BsDot } from "react-icons/bs";
+import { BsChevronCompactDown } from "react-icons/bs";
 import { FaEllipsisH, FaMicrophone, FaUserPlus } from "react-icons/fa";
 import { GoPrimitiveDot } from "react-icons/go";
 import Messages from "../components/Chat/Messages/Messages";

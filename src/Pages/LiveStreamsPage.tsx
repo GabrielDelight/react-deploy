@@ -1,5 +1,4 @@
-import React from "react";
-import { BsSignal } from "react-icons/bs";
+
 import { FiMenu, FiSearch } from "react-icons/fi";
 import { RiSignalTowerFill } from "react-icons/ri";
 import { Link } from "react-router-dom";

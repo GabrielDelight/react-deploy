@@ -1,5 +1,5 @@
 import React from "react";
-import { BsCamera, BsCameraFill } from "react-icons/bs";
+import { BsCameraFill } from "react-icons/bs";
 import Main from "../components/UI/Main/Main";
 import classes from "../styles/CreateGroupStyles.module.css";
 const CreateGroup = () => {

@@ -1,6 +1,4 @@
-import React from "react";
 import { BsCardImage, BsChevronRight } from "react-icons/bs";
-import { MdOutlineInsertPhoto } from "react-icons/md";
 import classes from "./FIlesAside.module.css";
 const FIlesAside = () => {
   return (

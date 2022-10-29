@@ -1,6 +1,6 @@
 import React from "react";
 import Aside from "../Aside/Aside";
-import Footer from "../Footer/Footer";
+
 import Header from "../Header/Header";
 import classes from "./Main.module.css";
 interface Props {

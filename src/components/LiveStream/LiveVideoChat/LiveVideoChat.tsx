@@ -1,6 +1,4 @@
-import React from "react";
 import { AiOutlineSend } from "react-icons/ai";
-import { FiSend } from "react-icons/fi";
 import { MdClose } from "react-icons/md";
 import classes from "./LiveVideoChat.module.css";
 const LiveVideoChat = () => {

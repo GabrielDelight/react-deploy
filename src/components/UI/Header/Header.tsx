@@ -1,6 +1,6 @@
-import React, { useState } from "react";
+import  { useState } from "react";
 import { BsFillBellFill, BsFillMoonFill, BsFillSunFill } from "react-icons/bs";
-import { FiBell, FiMoon, FiSearch, FiSun } from "react-icons/fi";
+import { FiSearch } from "react-icons/fi";
 import classes from "./Header.module.css";
 const Header = () => {
   const [toggleTheme, setToggleTheme] = useState<boolean>(true);

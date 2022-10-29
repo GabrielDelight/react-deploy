@@ -1,4 +1,3 @@
-import React from "react";
 import { ChatDataTypes } from "../types/ChatDataTypes";
 
 const ChatData: ChatDataTypes[] = [

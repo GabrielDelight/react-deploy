@@ -34,21 +34,3 @@ const PhoneNumber = () => {
 };
 
 export default PhoneNumber;
-
-{
-  /* <div className={classes.wrapper}>
-<div className="classes title__box">
-  <h3 className={classes.login}>Login</h3>
-</div>
-
-<div className={classes.input__container}>
-  <div className={classes.country__box}> +1</div>
-  <input />
-</div>
-
-<div className={classes.btn__container}>
-  <button> Login</button>
-</div>
-
-</div> */
-}
